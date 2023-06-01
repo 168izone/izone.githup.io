@@ -159,7 +159,7 @@ input[type="submit"]:active
 .inputBox input:valid ~ i,
 .inputBox input:focus ~ i
 {
-	height: 44px;
+	height: 34px;
 	
 }
 .links
